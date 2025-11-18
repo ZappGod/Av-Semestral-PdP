@@ -2,7 +2,6 @@ package Questao1;
 
 import java.util.*;
 
-
 interface Relatorio {
     void preparar();
     void gerar();
